@@ -1,0 +1,1 @@
+yolo detect predict model=runs/detect/train6/best.pt source=rando.png
